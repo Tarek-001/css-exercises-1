@@ -1,0 +1,17 @@
+.click,
+.unclick{
+
+    font-weight: bold;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
+
+.click{
+    background-color: black;
+
+    color: white;
+}
+.unclick{
+    background-color: yellow;
+    color: black;
+    
+}
