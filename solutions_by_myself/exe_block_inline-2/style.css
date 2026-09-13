@@ -1,0 +1,40 @@
+body{
+    background: gray;
+    font-family: sans-serif;
+
+}
+
+.card{
+
+    background: white;
+    width: 400px;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title{
+    background: lightblue;
+    padding: 10px;
+    margin: 8px;
+}
+
+.content{
+       background:lightblue;
+       padding: 5px 10px;
+       margin: 8px ;
+}
+
+.and{
+    text-align: center;
+     background: lightblue;
+    margin: 8px;
+    padding: 5px;
+}
+
+
+button{
+    display: block;
+     margin: 0 auto;
+    padding: 8px 10px ;
+    background: white;
+}
