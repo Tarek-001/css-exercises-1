@@ -1,0 +1,22 @@
+.contanor{
+
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    border: 5px solid darkblue;
+    align-items: center;
+    
+
+}
+
+.box{
+    height: 80px;
+    background-color: red;
+    border: 5px solid brown;
+    flex-wrap: wrap;
+    width: 80px;
+    text-align: center;
+
+
+}
