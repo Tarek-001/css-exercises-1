@@ -1,0 +1,67 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 8px;
+}
+
+ul {
+    padding: 10px;
+    list-style-type: none;
+}
+
+a {
+
+    text-decoration: none;
+    color: blue;
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
+.left-list ul {
+
+    display: flex;
+    gap: 10px;
+
+
+
+
+}
+
+.left-list li {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    justify-content: flex-end;
+
+}
+
+
+
+.logo {
+    background: white;
+    color: orangered;
+    font-size: x-large;
+    font-weight: bold;
+    height: 30px;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+.right-list ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.right-list li {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    justify-content: flex-end;
+
+}
